@@ -30,7 +30,7 @@ If you have a suggestion for discussion, presentation topic you are interested i
 | 3	| 07/10/2026 | SES x SAGE seminar: Ed Atkins, Caitlin Robinson and Tom Cantellow, The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales	| |Y | Qiujie Shi |
 | 4 |	14/10/2026	| SAGE seminar: Tom Moncrief, TBC | | | |			
 | 5 |	21/10/2026	|	| | | |
-| CW |	28/10/2026 | ||||
+| CW |	28/10/2026 | SAGE seminar: José Luis Ramírez-Mendiola, Spatialising energy demand flexibility ||Y|Caitlin Robinson|
 | 7 |	03/11/2026 * Note there are two seminars this week!	|	SES x SAGE  seminar: Davide Luca	||Y|Qiujie Shi|
 | 7 |	06/11/2026 * Note there are two seminars this week!	|	SAGE seminar: External examiner talk ||N| Emmanouil Tranos |
 | 8	| 11/11/2026	|	| | | |	
