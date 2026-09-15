@@ -26,11 +26,11 @@ If you have a suggestion for discussion, presentation topic you are interested i
 | Week |	Date |	Speaker and title	| Room	| SAGE Social event	| Calendar created? | Chair |
 |----|----|-----|------|-------|---------|----|
 | 1	| 23/09/2026	| No seminar	|	| | |
-| 2 |	30/09/2026 | SAGE x SES seminar: Diego Maury Romero, Unequal growth, unequal action: how growth inequality shapes adolescent pro-environmental behaviour across 58 nations | | Y | Caitlin Robinson |			
-| 3	| 07/10/2026 | SES x SAGE seminar: Ed Atkins, Caitlin Robinson and Tom Cantellow, The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales	| |Y | Qiujie Shi |
-| 4 |	14/10/2026	| SAGE seminar: Tom Moncrief, TBC | | | |			
+| 2 |	30/09/2026 | SAGE x SES seminar: [Diego Maury Romero](https://research-information.bris.ac.uk/en/persons/diego-a-maury-romero/) (University of Bristol), Unequal growth, unequal action: how growth inequality shapes adolescent pro-environmental behaviour across 58 nations | | Y | Caitlin Robinson |			
+| 3	| 07/10/2026 | SES x SAGE seminar: [Ed Atkins](https://www.bristol.ac.uk/people/person/Ed-Atkins-b533f3f1-8d6f-4968-9568-abb9d958966c/), [Caitlin Robinson](https://www.bristol.ac.uk/people/person/Caitlin-Robinson-29fc8d3e-8d7e-41ba-80f9-0e325f1cce90/) and Tom Cantellow (University of Bristol), The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales	| |Y | Qiujie Shi |
+| 4 |	14/10/2026	| SAGE seminar: Tom Moncrief (University of Bristol), TBC | | | |			
 | 5 |	21/10/2026	|	| | | |
-| CW |	28/10/2026 | SAGE seminar: José Luis Ramírez-Mendiola, Spatialising energy demand flexibility ||Y|Caitlin Robinson|
+| CW |	28/10/2026 | SAGE seminar: [José Luis Ramírez-Mendiola](https://www.edrc.ac.uk/) (University of Reading), Spatialising energy demand flexibility ||Y|Caitlin Robinson|
 | 7 |	03/11/2026 * Note there are two seminars this week!	|	SES x SAGE  seminar: Davide Luca	||Y|Qiujie Shi|
 | 7 |	06/11/2026 * Note there are two seminars this week!	|	SAGE seminar: External examiner talk ||N| Emmanouil Tranos |
 | 8	| 11/11/2026	|	| | | |	
