@@ -33,11 +33,11 @@ If you have a suggestion for discussion, presentation topic you are interested i
 | CW |	28/10/2026 |  ||Y|Caitlin Robinson|
 | 7 |	03/11/2026 * Note there are two seminars this week!	|	SES x SAGE  seminar: Davide Luca	||Y|Qiujie Shi|
 | 7 |	06/11/2026 * Note there are two seminars this week!	|	SAGE seminar: External examiner talk ||N| Emmanouil Tranos |
-| 8	| 11/11/2026	|	SAGE seminar: [José Luis Ramírez-Mendiola](https://www.edrc.ac.uk/) (University of Reading), Spatialising energy demand flexibility| | | |	
-| 9	| 18/11/2026	|	| | | |
-| 10	| 25/11/2026 | | | | |
-| 11 | 02/12/2026	| | | | |		
-| 12 | 09/12/2026 | | | |				
+| 8	| 11/11/2026	|	No seminar | | | |	
+| 9	| 18/11/2026	|	SAGE seminar: TBC | | | |
+| 10	| 25/11/2026 | SAGE seminar: TBC | | | |
+| 11 | 02/12/2026	| SAGE seminar: TBC | | | |		
+| 12 | 09/12/2026 | SAGE catch up: End of TB2 lunch | | |				
 | AP| 16/12/2026 | No seminar | | | |				
 | WH	| No seminar | | | | | 				
 | WH	|	No seminar | | | |			
