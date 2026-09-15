@@ -28,11 +28,11 @@ If you have a suggestion for discussion, presentation topic you are interested i
 | 1	| 23/09/2026	| No seminar	|	| | |
 | 2 |	30/09/2026 | SAGE x SES seminar: Diego Maury Romero, Unequal growth, unequal action: how growth inequality shapes adolescent pro-environmental behaviour across 58 nations | | Y | Caitlin Robinson |			
 | 3	| 07/10/2026 | SES x SAGE seminar: Ed Atkins, Caitlin Robinson and Tom Cantellow, The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales	| |Y | Qiujie Shi |
-| 4 |	14/10/2026	| Tom Moncrief, TBC | | | |			
+| 4 |	14/10/2026	| SAGE seminar: Tom Moncrief, TBC | | | |			
 | 5 |	21/10/2026	|	| | | |
 | CW |	28/10/2026 | ||||
-| 7 |	04/11/2026 * Note there are two seminars this week!	|	SES x SAGE session: Davide Luca	||Y|Qiujie Shi|
-| 7 |	06/11/2026 * Note there are two seminars this week!	|	External examiner talk ||N| Emmanouil Tranos |
+| 7 |	04/11/2026 * Note there are two seminars this week!	|	SES x SAGE  seminar: Davide Luca	||Y|Qiujie Shi|
+| 7 |	06/11/2026 * Note there are two seminars this week!	|	SAGE seminar: External examiner talk ||N| Emmanouil Tranos |
 | 8	| 11/11/2026	|	| | | |	
 | 9	| 18/11/2026	|	| | | |
 | 10	| 25/11/2026 | | | | |
