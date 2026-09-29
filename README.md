@@ -30,7 +30,7 @@ If you have a suggestion for discussion, presentation topic you are interested i
 | 3	| 07/10/2026 | SES x SAGE seminar: [Ed Atkins](https://www.bristol.ac.uk/people/person/Ed-Atkins-b533f3f1-8d6f-4968-9568-abb9d958966c/), [Caitlin Robinson](https://www.bristol.ac.uk/people/person/Caitlin-Robinson-29fc8d3e-8d7e-41ba-80f9-0e325f1cce90/) and Tom Cantellow (University of Bristol), The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales	| |Y | Qiujie Shi |
 | 4 |	14/10/2026	| SAGE seminar: Tom Moncrief (University of Bristol), TBC | | | |			
 | 5 |	21/10/2026	| SAGE catch up: Cookies in the common room	| | N | |
-| CW |	28/10/2026 |  ||Y|Caitlin Robinson|
+| CW |	28/10/2026 |No seminar||Y|Caitlin Robinson|
 | 7 |	03/11/2026 * Note there are two seminars this week!	|	SES x SAGE  seminar: Davide Luca	||Y|Qiujie Shi|
 | 7 |	06/11/2026 * Note there are two seminars this week!	|	SAGE seminar: External examiner talk ||N| Emmanouil Tranos |
 | 8	| 11/11/2026	|	No seminar | | | |	
