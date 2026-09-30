@@ -24,7 +24,7 @@ If you have a suggestion for discussion, presentation topic you are interested i
 
 ## Schedule
 | Week |	Date |	Speaker and title	| Room	| SAGE Social event	| Chair |
-|----|----|-----|------|-------|---------|----|
+|----|----|-----|------|-------|---------|
 | 1	| 23/09/2026	| No seminar	|	| | |
 | 2 |	30/09/2026 | SAGE x SES seminar: [Diego Maury Romero](https://research-information.bris.ac.uk/en/persons/diego-a-maury-romero/) (University of Bristol), Unequal growth, unequal action: how growth inequality shapes adolescent pro-environmental behaviour across 58 nations | FRY G.06 | N | Caitlin Robinson |			
 | 3	| 07/10/2026 | SES x SAGE seminar: [Ed Atkins](https://www.bristol.ac.uk/people/person/Ed-Atkins-b533f3f1-8d6f-4968-9568-abb9d958966c/), [Caitlin Robinson](https://www.bristol.ac.uk/people/person/Caitlin-Robinson-29fc8d3e-8d7e-41ba-80f9-0e325f1cce90/) and Tom Cantellow (University of Bristol), The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales	| | N | Qiujie Shi |
