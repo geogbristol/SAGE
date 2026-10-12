@@ -31,7 +31,7 @@ If you have a suggestion for discussion, presentation topic you are interested i
 | 4 |	14/10/2026	| SAGE seminar: Tom Moncrief (University of Bristol), TBC | FRY BLDG G.06| N | Caitlin Robinson |			
 | 5 |	21/10/2026	| SAGE catch up: Cookies in the common room	| | Y | Caitlin Robinson|
 | CW |	28/10/2026 |No seminar||||
-| 7 |	03/11/2026 * Note there are two seminars this week!	|	SES x SAGE  seminar: Davide Luca, TBC	||N|Qiujie Shi|
+| 7 |	03/11/2026 * Note there are two seminars this week!	|	SES x SAGE  seminar: Davide Luca, TBC	|FRY BLDG G.06 |N|Qiujie Shi|
 | 7 |	06/11/2026 * Note there are two seminars this week!	|	SAGE seminar: External examiner talk ||N| Emmanouil Tranos |
 | 8	| 11/11/2026	|	No seminar | | | |	
 | 9	| 18/11/2026	|	SAGE seminar: TBC | FRY BLDG G.06 | N| Caitlin Robinson|
