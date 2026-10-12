@@ -27,16 +27,16 @@ If you have a suggestion for discussion, presentation topic you are interested i
 |----|----|-----|------|-------|---------|
 | 1	| 23/09/2026	| No seminar	|	| | |
 | 2 |	30/09/2026 | SAGE x SES seminar: [Diego Maury Romero](https://research-information.bris.ac.uk/en/persons/diego-a-maury-romero/) (University of Bristol), Unequal growth, unequal action: how growth inequality shapes adolescent pro-environmental behaviour across 58 nations | FRY G.06 | N | Caitlin Robinson |			
-| 3	| 07/10/2026 | SES x SAGE seminar: [Ed Atkins](https://www.bristol.ac.uk/people/person/Ed-Atkins-b533f3f1-8d6f-4968-9568-abb9d958966c/), [Caitlin Robinson](https://www.bristol.ac.uk/people/person/Caitlin-Robinson-29fc8d3e-8d7e-41ba-80f9-0e325f1cce90/) and Tom Cantellow (University of Bristol), The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales	| | N | Qiujie Shi |
-| 4 |	14/10/2026	| SAGE seminar: Tom Moncrief (University of Bristol), TBC | | | Caitlin Robinson |			
+| 3	| 07/10/2026 | SES x SAGE seminar: [Ed Atkins](https://www.bristol.ac.uk/people/person/Ed-Atkins-b533f3f1-8d6f-4968-9568-abb9d958966c/), [Caitlin Robinson](https://www.bristol.ac.uk/people/person/Caitlin-Robinson-29fc8d3e-8d7e-41ba-80f9-0e325f1cce90/) and Tom Cantellow (University of Bristol), The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales	| FRY BLDG G.06 | N | Qiujie Shi |
+| 4 |	14/10/2026	| SAGE seminar: Tom Moncrief (University of Bristol), TBC | FRY BLDG G.06| N | Caitlin Robinson |			
 | 5 |	21/10/2026	| SAGE catch up: Cookies in the common room	| | Y | Caitlin Robinson|
 | CW |	28/10/2026 |No seminar||||
 | 7 |	03/11/2026 * Note there are two seminars this week!	|	SES x SAGE  seminar: Davide Luca, TBC	||N|Qiujie Shi|
 | 7 |	06/11/2026 * Note there are two seminars this week!	|	SAGE seminar: External examiner talk ||N| Emmanouil Tranos |
 | 8	| 11/11/2026	|	No seminar | | | |	
-| 9	| 18/11/2026	|	SAGE seminar: TBC | | N| Caitlin Robinson|
-| 10	| 25/11/2026 | SAGE seminar: [José Ramirez-Mendiola](https://www.reading.ac.uk/cme/staff/jose-ramirez-mendiola) (University of Reading), TBC | | N| Caitlin Robinson|
-| 11 | 02/12/2026	| SAGE seminar: TBC | | | |		
+| 9	| 18/11/2026	|	SAGE seminar: TBC | FRY BLDG G.06 | N| Caitlin Robinson|
+| 10	| 25/11/2026 | SAGE seminar: [José Ramirez-Mendiola](https://www.reading.ac.uk/cme/staff/jose-ramirez-mendiola) (University of Reading), TBC | FRY BLDG G.06| N| Caitlin Robinson|
+| 11 | 02/12/2026	| SAGE seminar: TBC | FRY BLDG G.06 | N | Caitlin Robinson |		
 | 12 | 09/12/2026 | SAGE catch up: End of TB2 lunch | -| Y|-|				
 | AP| 16/12/2026 | No seminar | | | |				
 | WH	| No seminar | | | | | 				
